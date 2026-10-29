@@ -28,10 +28,9 @@
         <!-- Terminal Content -->
         <pre align="left" style="color: #c9d1d9; font-family: 'Fira Code', monospace;">
 <span style="color: #7928ca;">{</span>
-  <span style="color: #00f3ff;">"status"</span>: <span style="color: #a5d6ff;">"SYSTEM_ONLINE"</span>,
+  <span style="color: #00f3ff;">"status"</span>: <span style="color: #a5d6ff;">"MARCELLA MELO"</span>,
   <span style="color: #00f3ff;">"role"</span>: <span style="color: #a5d6ff;">"Backend & AI Engineer"</span>,
   <span style="color: #00f3ff;">"focus"</span>: <span style="color: #a5d6ff;">["High-Scale APIs", "LLM Integration", "ETL Pipelines"]</span>,
-  <span style="color: #00f3ff;">"current_objective"</span>: <span style="color: #a5d6ff;">"Building resilient cloud-native systems"</span>,
   <span style="color: #00f3ff;">"bio"</span>: <span style="color: #a5d6ff;">"Transforming complex logic into performant software with modern tech stacks."</span>
 <span style="color: #7928ca;">}</span>
         </pre>
@@ -54,7 +53,6 @@
   <!-- Frameworks & Backend -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/REST_API-00F3FF?style=for-the-badge&logo=json&logoColor=black" alt="REST API" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <br />
   <!-- Tools & DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />

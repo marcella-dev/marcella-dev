@@ -71,8 +71,8 @@
 
 <!-- Cartões de Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcella-dev&show_icons=true&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&hide_progress=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=marcella-dev&show_icons=true&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&hide_progress=true" alt="Top Languages" height="165" />
 </p>
 
 <!-- Streak Stats -->

@@ -71,8 +71,8 @@
 
 <!-- Cartões de Stats -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/marcella-dev?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo&theme=cyberpunk" alt="GitHub Metrics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcella-dev&show_icons=true&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117&locale=pt-br" alt="Top Languages" height="165" />
 </p>
 
 <!-- Streak Stats -->

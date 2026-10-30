@@ -71,7 +71,8 @@
 
 <!-- Cartões de Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcella-dev&theme=cyberpunk" alt="Marcella's GitHub Summary" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcella-dev&show_icons=true&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117" alt="Top Languages" height="165" />
 </p>
 
 <!-- Streak Stats -->

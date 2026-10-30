@@ -71,8 +71,9 @@
 
 <!-- Cartões de Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcella-dev&show_icons=true&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcella-dev&layout=compact&theme=cyberpunk&border_color=00f3ff&title_color=00f3ff&bg_color=0d1117" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/badge/GitHub_Status-ACTIVE-00f3ff?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Main_Language-PYTHON-7928ca?style=for-the-badge&logo=python&logoColor=white" alt="Main Language" />
+  <img src="https://img.shields.io/badge/Architecture-BACKEND_%26_AI-00f3ff?style=for-the-badge&logo=fastapi&logoColor=black" alt="Focus" />
 </p>
 
 <!-- Streak Stats -->

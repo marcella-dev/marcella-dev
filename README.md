@@ -6,7 +6,7 @@
 <!-- 2. TYPING ANIMATION HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+& IA Engineer;Building+Scalable+Backend+Systems;Python+%7C+C+%7C+FastAPI+%7C+PostgreSQL;Welcome+to+my+Neural+Hub...;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+%26+AI;Building+Scalable+Architectures;Python+%7C+FastAPI+%7C+Docker+%7C+PostgreSQL;Welcome+to+my+Neural+Hub...;" alt="Typing SVG" />
   </a>
 </p>
 

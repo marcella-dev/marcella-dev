@@ -1,12 +1,12 @@
 <!-- 1. BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:00f3ff&height=200&section=header&text=SYSTEM%20ONLINE%20//%20INITIALIZING%20CORE...&fontSize=24&fontColor=00f3ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:00f3ff&height=200&section=header&text=MARCELLA%20Melo%20//&fontSize=24&fontColor=00f3ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </p>
 
 <!-- 2. TYPING ANIMATION HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+Developer;Building+Scalable+Backend+Systems;Python+%7C+C+%7C+FastAPI+%7C+PostgreSQL;Welcome+to+my+Neural+Hub...;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+AI Engineer;Building+Scalable+Backend+Systems;Python+%7C+C+%7C+FastAPI+%7C;Welcome+to+my+Neural+Hub...;" alt="Typing SVG" />
   </a>
 </p>
 

@@ -6,7 +6,7 @@
 <!-- 2. TYPING ANIMATION HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+%26+LLMOps;RAG+Architectures+%26+Vector+Databases;Python+%7C+FastAPI+%7C+Qdrant+%7C+Hugging+Face;Targeting+iFood+GenAI+Program;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+%26+LLMOps;RAG+Architectures+%26+Vector+Databases;Python+%7C+FastAPI+%7C+Qdrant+%7C+Hugging+Face;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,8 +29,7 @@
   <span style="color: #00f3ff;">"status"</span>: <span style="color: #a5d6ff;">"BUILDING_FOR_SCALE"</span>,
   <span style="color: #00f3ff;">"role"</span>: <span style="color: #a5d6ff;">"AI Engineer / Backend Software Engineer"</span>,
   <span style="color: #00f3ff;">"focus"</span>: <span style="color: #a5d6ff;">["Production RAG Systems", "LLM Fine-Tuning & MLOps", "Async APIs"]</span>,
-  <span style="color: #00f3ff;">"target"</span>: <span style="color: #a5d6ff;">"iFood GenAI Program (AI Engineer)"</span>,
-  <span style="color: #00f3ff;">"bio"</span>: <span style="color: #a5d6ff;">"Engenheira focada na construção de sistemas escaláveis de IA, pipelines RAG e automação inteligente para FoodTech e Logística."</span>
+  <span style="color: #00f3ff;">"bio"</span>: <span style="color: #a5d6ff;">"Engenheira focada na construção de sistemas escaláveis de IA, pipelines RAG e automação inteligente."</span>
 <span style="color: #7928ca;">}</span>
         </pre>
       </td>

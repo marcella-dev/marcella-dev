@@ -1,12 +1,14 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5a68,50:c24366,100:ff69b4&height=200&section=header&text=Marcella%20Melo%0ABackend%20%26%20AI%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5a68,50:c24366,100:ff69b4&height=200&section=header&text=Marcella%20Melo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Marcella Melo" />
 </p>
 
-<!-- SAUDAÇÃO ANIMADA -->
+<!-- SUBTÍTULO + SAUDAÇÃO ANIMADA -->
+<h3 align="center">Backend & AI Engineer</h3>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B;Backend+%26+AI+Engineer+%7C+Software+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C24366&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B" alt="Olá, eu sou a Marcella!" />
   </a>
 </p>
 

@@ -4,11 +4,11 @@
 </p>
 
 <!-- SUBTÍTULO + SAUDAÇÃO ANIMADA -->
-<h3 align="center">Backend & AI Engineer</h3>
+<h3 align="center">Backend | AI Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C24366&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B" alt="Olá, eu sou a Marcella!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C24366&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8" alt="Saudação Animada" />
   </a>
 </p>
 

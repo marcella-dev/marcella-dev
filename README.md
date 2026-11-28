@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1&pause=999999&color=FFFFFF&background=881144&center=true&vCenter=true&width=900&height=160&lines=Marcella+Melo+%7C+Backend+%26+AI+Engineer" alt="Banner Marcella Melo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=999999&color=FFFFFF&background=881144&center=true&vCenter=true&width=900&height=150&lines=Marcella+Melo+%7C+Backend+%26+AI+Engineer" alt="Banner Marcella Melo" />
 </p>
 
 <!-- SAUDAÇÃO ANIMADA -->
@@ -15,7 +15,7 @@
 ## Sobre mim
 
 * Estudante de **Engenharia de Software** na **UNICID**
-* Focada em desenvolvimento **Backend**, **Arquitetura Limpa** e **Engenharia de Inteligência Artificial** (APIs, LLMs e pipelines RAG)
+* Focada em desenvolvimento **Backend** e **Engenharia de Inteligência Artificial** (APIs, LLMs e pipelines RAG)
 
 ---
 
@@ -24,11 +24,6 @@
 <p align="center"><strong>Back-end & IA</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,fastapi,postgres,sqlite&theme=dark" alt="Backend Stack" />
-</p>
-
-<p align="center"><strong>Front-end</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Frontend Stack" />
 </p>
 
 <p align="center"><strong>Ferramentas & DevOps</strong></p>

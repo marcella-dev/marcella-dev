@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5a68,50:c24366,100:ff69b4&height=200&section=header&text=Marcella%20Melo&fontSize=42&fontColor=ffffff&Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5a68,50:c24366,100:ff69b4&height=200&section=header&text=Marcella%20Melo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </p>
 
 <!-- SAUDAÇÃO ANIMADA -->

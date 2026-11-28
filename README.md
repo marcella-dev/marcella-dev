@@ -1,12 +1,12 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=999999&color=FFFFFF&background=881144&center=true&vCenter=true&width=900&height=150&lines=Marcella+Melo+%7C+Backend+%26+AI+Engineer" alt="Banner Marcella Melo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:881144,100:ff69b4&height=200&section=header&text=MARCELLA%20MELO&fontSize=36&fontColor=ff69b4&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </p>
 
 <!-- SAUDAÇÃO ANIMADA -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Marcella!+%F0%9F%91%8B;Backend+%26+AI+Engineer+%7C+Software+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,12 +23,12 @@
 
 <p align="center"><strong>Back-end & IA</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,fastapi,postgres,sqlite&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,fastapi,sqlite&theme=dark" alt="Backend Stack" />
 </p>
 
 <p align="center"><strong>Ferramentas & DevOps</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" alt="Tools Stack" />
 </p>
 
 ---
@@ -46,5 +46,5 @@
 
 <!-- RODAPÉ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1&pause=999999&color=FF69B4&background=881144&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+Desenvolvido+por+Marcella+Melo+%7C+Software+Engineering" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:881144,100:ff69b4&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
